@@ -5,7 +5,7 @@
 <hr>
 <br/>
 
-- 🌱 I like to decode-analyse-code interesting stuffs.
+- 🌱 I like to analyse-decode-code interesting stuffs.
 
 - 🌱 I’m currently learning **Web Development**
 
